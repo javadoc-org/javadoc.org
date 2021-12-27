@@ -11,7 +11,7 @@
 
 - If you want to link to the latest version, please use `latest ` as the version number, for example:`https://javadoc.org/artifact/org.springframework.boot/spring-boot/latest/`.
 
-- If you want to switch the theme, please refer:
+- If you want to switch the theme:
 
   ![image](https://user-images.githubusercontent.com/46130657/144440893-ef03f8ee-4a8e-4692-9819-a1f742a0f9b1.png)
 
